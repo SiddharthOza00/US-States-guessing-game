@@ -20,7 +20,7 @@ If you guessed correctly then the you will see the name of the state on it's loc
 
 **#Requirements-to-run-the-code**
 
-1)You need python 3.9 or higher interpreter to run the code
+1)You will need python 3.9 or higher interpreter to run the code
 
 2)The code is written in PyCharm
 
