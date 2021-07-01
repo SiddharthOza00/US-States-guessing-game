@@ -16,6 +16,8 @@ When you run the code you will see a map of America and a dialog box will appear
 
 If you guessed correctly then the you will see the name of the state on it's location on the map.
 
+You can see the screenshots of the output in the folder __Screenshot__.
+
 
 
 **#Requirements-to-run-the-code**
