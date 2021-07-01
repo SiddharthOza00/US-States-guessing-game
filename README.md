@@ -2,6 +2,7 @@
 
 Remember in Friends when Chandler said you cannot name all the states in under 6 mins?
 
+Set a timer for 6 mins in your phone/laptop or tablet and start the game!
 
 Well here's your chance to prove him wrong? Maybe?
 
